@@ -1,0 +1,15 @@
+Quests API
+
+Allows mod authors to add quests with different completion conditions (amoung those are but not limited to: mob kills, boss kills, item pickups, time, health/mana/defence/[other stat] value, crafted item, biome visited. All conditions and other useful stuff can be found at [TODO: remember to paste here github link]) that can be mixed and matched for perfect condition for a sophisticated quest. Completed quest also can be accesed by other mods for giving a reward to a player. Quest window can be pulled up by book, inventory button or even keybind. Some might say that system looks a lot like Minecraft's advancement system and yes, it is. 
+
+Implemented Features:
+
+Planned Features:
+-quest db
+-quest gui
+-quest rarity/difficulty
+-custom mods api
+-quest conditions
+-fancy quest tree :cool_shades:
+-quest descriptions
+-avaliability for custom sprites (inner window ninepatch, background, quest ninepatch, etc)

@@ -1,0 +1,3 @@
+displayName = Quests API
+author = GibberishDev
+version = 0.1
